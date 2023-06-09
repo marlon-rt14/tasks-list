@@ -2,7 +2,7 @@
 Este archivo README proporciona información sobre cómo clonar, configurar y ejecutar el proyecto.
 
 ## Tecnología Utilizada
-Este proyecto ha sido desarrollado utilizando Vite.js. Vite.js es una herramienta de compilación y desarrollo rápido que proporciona una configuración preconfigurada para proyectos web modernos [*y que es permitido por la documentacion oficial de React y hacer solo uso de CRA ya no es recomendable*](https://react.dev/learn/start-a-new-react-project).
+Este proyecto ha sido desarrollado utilizando Vite.js. Vite.js es una herramienta de compilación y desarrollo rápido que proporciona una configuración preconfigurada para proyectos web modernos [*y que es permitido por la documentacion oficial de React ya que hacer solo uso de CRA ya no es recomendable*](https://react.dev/learn/start-a-new-react-project).
 
 Puedes encontrar más información sobre Vite.js en su sitio web.
 
