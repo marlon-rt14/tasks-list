@@ -50,3 +50,15 @@ En el archivo `src/helpers/Auth8Base.ts` encontrarás las credenciales para cada
 ## Notas Importantes
 * Ten en cuenta que este proyecto utiliza una versión gratuita que puede tener limitaciones de actividad. Esto puede causar algunos inconvenientes, como la imposibilidad de registrarse. Ten en cuenta estas limitaciones al trabajar con el proyecto.
 * **Importante**: Se han encontrado algunos inconvenientes en la recuperación de tareas según el usuario logueado. Aunque la consulta de GraphQL funciona correctamente, en el entorno local puede devolver un arreglo vacío. Debido a este problema, no fue posible completar algunos de los requerimientos. El error puede residir en el backend de 8Base en alguna configuración que no lo he logrado identificar y en la consola del navegador no se generan errores o advertencias que permitan identificar la causa del problema. Sin embargo, el CRUD (crear, leer, actualizar, eliminar) funciona perfectamente.
+* Debido al punto anterior la selección del Rol en el registro es irrelevante
+
+
+## Usuarios de prueba
+```
+Email: piknidutra@gufum.com
+Password: marlonUTN97
+```
+```
+Email: semlasaydu@gufum.com
+Password: marlonUTN97
+```
